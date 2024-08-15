@@ -14,9 +14,6 @@
 #### SQL Wochenprojekt +  Musterlösung
     Nachfolgend wir die Sitemap des Projektes aufgezeigt
     - 08_Projektbeschreibung.md
-    - Musterloesung -> 08_SQL_Skript_Create.sql
-    - Musterloesung -> 08_SQL_Skript_dummyData.sql
-
 
 ## 9 PostgreSQL
 
