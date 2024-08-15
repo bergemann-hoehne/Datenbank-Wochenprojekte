@@ -1,14 +1,14 @@
 # 8 SQL und MySQL vs. MariaDB
 
-Die Teilnehmenden erstellen eine Datenbank für ein Soziales-Netzwerk.  
-Dabei ist ausschließlich die Datenbank Teil des Projektes.  
-Diese kann von besonders motivierten und leistungsstarken Teilnehmenden um eine entsprechende Anwendung erweitert werden.  
+Ziel dieses Wochenprojektes ist das Erstellen einer Datenbank fÃ¼r ein Soziales Netzwerk.  
+Dabei ist ausschlieÃŸlich die Datenbank Teil des Projektes.  
+Diese kann optional um eine entsprechende Anwendung erweitert werden (wer mÃ¶chte).  
 Die Datenbank soll im Wesentlichen Benutzer und Postings enthalten.  
-Erweiternd kann die Datenbank erweitert werden um Kommentare/Bewertungen.  
+Die Datenbank kann um Kommentare/Bewertungen erweitert werden.  
   
-Dabei sollen folgende Sachverhalte abbilden:  
+Dabei sollen folgende Sachverhalte abgebildet werden:  
 
-1. Benutzer haben einen Namen und ein Profil, in dem sie weitere Informationen über sich teilen können.
+1. Benutzer haben einen Namen und ein Profil, in dem sie weitere Informationen Ã¼ber sich teilen kÃ¶nnen.
 - [ ] Benutzername
 - [ ] E-Mail
 - [ ] Profiltext
@@ -17,30 +17,30 @@ Dabei sollen folgende Sachverhalte abbilden:
 - [ ] Arbeitgeber
 - [ ] Hobbys
 - [ ] etc.
-2. Benutzer haben die Möglichkeit Postings auf der Plattform anzulegen. Dabei können neben einem Text auch Links oder Dateien wie Bilder angehangen werden.
+2. Benutzer haben die MÃ¶glichkeit Postings auf der Plattform anzulegen. Dabei kÃ¶nnen neben einem Text auch Links oder Dateien wie Bilder angehangen werden.
 - [ ] PostingText
 - [ ] File(s)
 - [ ] Ref.Link(s)
 - [ ] Hashtags (als Tagging Mechanik)
-- [ ] Andere Nutzer können als Tag hinzugefügt werden
-3. Benutzer können zu einzelnen Postings Kommentare abgeben.
+- [ ] Andere Nutzer kÃ¶nnen als Tag hinzugefÃ¼gt werden
+3. Benutzer kÃ¶nnen zu einzelnen Postings Kommentare abgeben.
 - [ ] Kommentartext
 - [ ] Benutzer
 - [ ] Zeitpunkt
-4. Gruppen können angelegt werden, in denen sich Benutzer Organisieren können
+4. Gruppen kÃ¶nnen angelegt werden, in denen sich Benutzer Organisieren kÃ¶nnen
 - [ ] Gruppenname
 - [ ] Gruppenbeschreibung
 - [ ] Gruppenbild
 - [ ] Gruppentags
-5. Benutzer können sich in Gruppen organisieren
+5. Benutzer kÃ¶nnen sich in Gruppen organisieren
 - [ ] Gruppe
 - [ ] Benutzer
-6. Benutzer können einzelne Postings Bewerten (gut/schlecht | Daumen hoch/Daumen runter)
+6. Benutzer kÃ¶nnen einzelne Postings Bewerten (gut/schlecht | Daumen hoch/Daumen runter)
 - [ ] Wertung
 - [ ] Benutzer
 - [ ] Zeitpunkt  
   
-Es ist den Teilnehmenden dabei freigestellt, wie diese Inhalte im Einzelnen modelliert werden, jedoch sollen die vermittelten Grundsätze der Datenmodellierung eingehalten werden. Bewertungen können als Kommentare betrachtet werden. Ein mögliches Datenmodell könnte folgende Tabellen mindestens enthalten:
+Es ist allen dabei freigestellt, wie diese Inhalte im Einzelnen modelliert werden, jedoch sollen die vermittelten GrundsÃ¤tze der Datenmodellierung eingehalten werden. Bewertungen kÃ¶nnen als Kommentare betrachtet werden. Ein mÃ¶gliches Datenmodell kÃ¶nnte folgende Tabellen mindestens enthalten:
 - [ ] User
 - [ ] Posts
 - [ ] Comment
