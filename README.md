@@ -10,7 +10,7 @@
 ## 7 Datenbankdesign
 
     - 07_Projektbeschreibung_Restaurant.md
-    - 07_Projektbeschreibung_Soziales_-Netzwerk.md
+    - 07_Projektbeschreibung_Soziales_Netzwerk.md
     - 07_Projektbeschreibung_Supermerkt.md
 
 #### Tag 1
