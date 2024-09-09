@@ -1,4 +1,4 @@
-# Repository für den kompletten Datenbank-Engineer Kurs
+# Repository fÃ¼r den Kurs Datenbankentwickler und Projektmanager
 
 
 ## 4 Code-Versionierung
@@ -14,34 +14,34 @@
     - 07_Projektbeschreibung_Supermerkt.md
 
 #### Tag 1
-    Es soll ein Logisches Datenmodell für das Projekt erstellt werden.
+    Es soll ein Logisches Datenmodell fÃ¼r das Projekt erstellt werden.
     
 #### Tag 2
-    Auf Basiss des logischen Datenmodells soll ein physisches Datenmodell erstellt werden.
+    Auf Basis des logischen Datenmodells soll ein physisches Datenmodell erstellt werden.
     
 #### Tag 3
-    Das erstellte logische Datenmodell soll Normalisiert werden und die Normalisierung in der Gruppe Präsentiert werden.
-    Dabei soll in der Gruppen diskussion das Optimum der Normalissierugn ermittelt werden.
+    Das erstellte logische Datenmodell soll normalisiert und anschlieÃŸend in der Gruppe prÃ¤sentiert werden.
+    Schlussendlich soll in einer Gruppendiskussion das Optimum der Normalisierung ermittelt werden.
     
 #### Tag 4
-    Anhand des Beispiels eines Hotels soll eine Denormaisierugn durchgeführt werden.
+    Anhand des Beispiels eines Hotels soll eine Denormaisierung durchgefÃ¼hrt werden.
     
 #### Tag 5
-    Das eigene Normalisierte Datenmodell von Tag 3 soll bedingt denormalisiert werden und erneut in der Gruppe Präsentiert udn diskutiert werden.
+    Das eigene normalisierte Datenmodell von Tag 3 soll bedingt denormalisiert und erneut in der Gruppe prÃ¤sentiert und diskutiert werden.
     
 #### Tag 6
-    Wiederholung der Inhalte und finalisierung der Tagesaufgaben.
+    Wiederholung der Inhalte und Finalisierung der Tagesaufgaben.
 
 ## 8 SQL und MySQL vs. MariaDB
 
-#### SQL Wochenprojekt +  Musterlösung
-    Nachfolgend wir die Sitemap des Projektes aufgezeigt
+#### SQL Wochenprojekt
+    Nachfolgend wird die Sitemap des Projektes aufgezeigt
     - 08_Projektbeschreibung.md
 
 ## 9 PostgreSQL
 
 #### PostgreSQL Wochenprojekt
-    Nachfolgend wir die Sitemap des Projektes aufgezeigt
+    Nachfolgend wird die Sitemap des Projektes aufgezeigt
     - 09_Projektbeschreibung.md
     - Onlineshop_Diagramm.png
 
