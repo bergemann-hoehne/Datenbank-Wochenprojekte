@@ -40,6 +40,11 @@
 
 ## 9 PostgreSQL
 
+#### PostgreSQL Wochenprojekt
+    Nachfolgend wir die Sitemap des Projektes aufgezeigt
+    - 09_Projektbeschreibung.md
+    - Onlineshop_Diagramm.png
+
 ## 10 MongoDB
 
 ## 11 Projektmanagement
