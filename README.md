@@ -1,4 +1,4 @@
-# Repository f�r den kompletten Datenbank-Engineer Kurs
+# Repository für den Kurs Datenbankentwickler und Projektmanager
 
 
 ## 4 Code-Versionierung
@@ -14,33 +14,36 @@
     - 07_Projektbeschreibung_Supermerkt.md
 
 #### Tag 1
-    Es soll ein Logisches Datenmodell f�r das Projekt erstellt werden.
+    Es soll ein Logisches Datenmodell für das Projekt erstellt werden.
     
 #### Tag 2
-    Auf Basiss des logischen Datenmodells soll ein physisches Datenmodell erstellt werden.
+    Auf Basis des logischen Datenmodells soll ein physisches Datenmodell erstellt werden.
     
 #### Tag 3
-    Das erstellte logische Datenmodell soll Normalisiert werden und die Normalisierung in der Gruppe Pr�sentiert werden.
-    Dabei soll in der Gruppen diskussion das Optimum der Normalissierugn ermittelt werden.
+    Das erstellte logische Datenmodell soll normalisiert und anschließend in der Gruppe präsentiert werden.
+    Schlussendlich soll in einer Gruppendiskussion das Optimum der Normalisierung ermittelt werden.
     
 #### Tag 4
-    Anhand des Beispiels eines Hotels soll eine Denormaisierugn durchgef�hrt werden.
+    Anhand des Beispiels eines Hotels soll eine Denormaisierung durchgeführt werden.
     
 #### Tag 5
-    Das eigene Normalisierte Datenmodell von Tag 3 soll bedingt denormalisiert werden und erneut in der Gruppe Pr�sentiert udn diskutiert werden.
+    Das eigene normalisierte Datenmodell von Tag 3 soll bedingt denormalisiert und erneut in der Gruppe präsentiert und diskutiert werden.
     
 #### Tag 6
-    Wiederholung der Inhalte und finalisierung der Tagesaufgaben.
+    Wiederholung der Inhalte und Finalisierung der Tagesaufgaben.
 
 ## 8 SQL und MySQL vs. MariaDB
 
-#### SQL Wochenprojekt +  Musterl�sung
-    Nachfolgend wir die Sitemap des Projektes aufgezeigt
+#### SQL Wochenprojekt
+    Nachfolgend wird die Sitemap des Projektes aufgezeigt
     - 08_Projektbeschreibung.md
 
 ## 9 PostgreSQL
 
-Siehe [Projektbeschreibung](https://github.com/bergemann-hoehne/Datenbank-Wochenprojekte/tree/main/09_Wochenprojekt/09_Projektbeschreibung.md).
+#### PostgreSQL Wochenprojekt
+    Nachfolgend wird die Sitemap des Projektes aufgezeigt
+    - 09_Projektbeschreibung.md
+    - Onlineshop_Diagramm.png
 
 ## 10 MongoDB
 
